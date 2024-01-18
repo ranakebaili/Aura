@@ -1,0 +1,44 @@
+/* AddProduct.css */
+
+.normed {
+    color: #ff6fcd;
+    font-family: 'Playfair Display', serif; /* Elegant font family for headings */
+    margin-top: 20px;
+    font-size: 25px;
+  }
+  
+  .frame2 {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .frame33 {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .forms {
+    color: #333;
+    margin-top: 5px;
+  }
+  
+  .button {
+    background-color: #333333;
+    color: #fff;
+
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  .button-text {
+    font-weight: bold;
+  }

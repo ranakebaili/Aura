@@ -1,0 +1,46 @@
+/* Home.css */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7; /* Light gray background color */
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.aura {
+  font-size: 3em;
+  color: #333; 
+  font-family: 'Playfair Display', serif; 
+  margin-bottom: 40px;
+}
+
+.products-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.products-container + div {
+  margin-top: 50px;
+}
+
+.contact-container {
+  padding: 20px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ff79d0; 
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f7f7f7; 
+}

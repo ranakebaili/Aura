@@ -1,0 +1,30 @@
+/* AboutUs.css */
+
+.about-us-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.about-us-content {
+  max-width: 800px;
+  padding: 40px;
+  text-align: center;
+}
+
+h2 {
+  color: #333; /* Heading color */
+  font-family: 'Playfair Display', serif; /* Elegant font family for headings */
+  font-size: 36px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+}
+
+p {
+  color: #666; /* Paragraph text color */
+  font-family: 'Lato', sans-serif; /* Elegant font family for paragraphs */
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}

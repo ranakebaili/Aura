@@ -1,0 +1,44 @@
+/* Global Styling */
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: 'Playfair Display', serif;
+  }
+  .contact-heading{
+    margin-top: 40px;
+  }
+  /* Contact Container Styles */
+  .contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Heading Styles */
+  .contact-container h1 {
+    color: #000;
+    font-family: 'Playfair Display', serif;
+  }
+  
+  /* Paragraph Styles */
+  .contact-container p {
+    color: #000;
+  }
+  
+  /* List Styles */
+  .contact-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Anchor Styles */
+  .contact-container a {
+    color: #ff91dc;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .contact-container a:hover {
+    color: #ff63e0;
+  }
+  

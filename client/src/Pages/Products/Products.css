@@ -1,0 +1,48 @@
+/* Global Styling */
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  /* Heading Styles */
+  .Produit {
+    text-align: center;
+    color: #000;
+    margin-top: 20px;
+    font-family: 'Playfair Display', serif;
+  }
+  
+  /* Button Styles */
+  .v33 {
+    margin: 20px auto;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+  }
+  .ppp{
+    display: flex;
+    justify-content: center;
+  }
+  /* Product Container Styles */
+  .productcontainer12 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Product List Styles */
+  .productlist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  /* Product Card Styles */
+  /* Add your existing ProductCard styles here */
+  
+  /* No Results Message Styles */
+  .productlist p {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+  }
+  

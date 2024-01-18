@@ -1,0 +1,38 @@
+/* Global Styling */
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  /* Heading Styles */
+  .Profile {
+    text-align: center;
+    color: #000;
+    margin-top: 20px;
+    font-family: 'Playfair Display', serif;
+  }
+  
+  /* UserList Styles */
+  .UserList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  /* UsersCard Styles */
+  .UsersCard {
+    width: 700px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* User Details Styles */
+  .user-details {
+    text-align: center;
+  }

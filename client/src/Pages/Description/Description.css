@@ -1,0 +1,56 @@
+/* Description.css */
+.description-container-1 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .product-title {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .product-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .info-container {
+    margin-bottom: 10px;
+  }
+  
+  .info-item {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .info-label {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .info-value {
+    color: #333;
+  }
+  
+  .description-item {
+    text-align: center;
+  }
+  
+  .description-label {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .description-value {
+    color: #333;
+  }
+  

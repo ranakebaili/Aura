@@ -1,0 +1,51 @@
+/* Global Styling */
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  /* Heading Styles */
+  .Profile {
+    text-align: center;
+    color: #000;
+    font-family: 'Playfair Display', serif;
+  }
+  
+  /* Profile Card Styles */
+  .profileCard {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    margin-bottom: 140px;
+  }
+  
+  /* Card Styles */
+  Card {
+    width: 20rem;
+  }
+  
+  /* Card Title Styles */
+  .Card.Title {
+    color: #000;
+  }
+  
+  /* Form Styles */
+  .forms {
+    color: #000;
+  }
+  
+  /* Edit Icon Styles */
+  .editico {
+    cursor: pointer;
+    margin-left: 5px;
+    color: #000;
+  }
+  
+  /* Tooltip Styles */
+  .tooltip-inner {
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #fff;
+  }
+  

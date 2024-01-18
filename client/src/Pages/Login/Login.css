@@ -1,0 +1,88 @@
+/* Global Styling */
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Heading Styles */
+.Loginn {
+    text-align: center;
+    color: #000;
+    margin-top: 20px;
+    font-family: 'Playfair Display', serif; 
+}
+
+/* Form Styles */
+.cadre2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.cadres {
+    width: 400px;
+    background-color: #ffffff;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.forms {
+    color: #fff;
+}
+
+.eye-icon {
+    cursor: pointer;
+    margin-left: 30px;
+    color: #ff6edb;
+    size: 25px;
+}
+
+/* Button Styles */
+.bouton {
+    width: 100%;
+    margin-top: 15px;
+    background-color: #fff;
+    color: #000;
+}
+
+.boutontext {
+    color: #000;
+}
+
+/* Text Styles */
+.text-muted {
+    color: #999;
+}
+
+/* Link Styles */
+a {
+    color: #fff;
+    text-decoration: none;
+}
+.signin{
+    text-decoration: none;
+    color: #ff99e6;
+  }
+.eye{
+    cursor: pointer;
+    margin-left: 30px;
+    color: #ff6edb;
+    size: 25px;
+}
+
+  .signin:hover{
+    color: #ff60d7;
+  }
+a:hover {
+    text-decoration: underline;
+}
+
+/* Back to Home Button Styles */
+button[aria-current='page'] {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    margin-top: 10px;
+}
